@@ -289,6 +289,14 @@ local function LaunchMainMenu()
     end)
 
     -- UI PARENTING SECURISE
+    -- Nettoyage de l'ancienne interface (Anti-Duplication pour Loadstring)
+    if getgenv and getgenv().gethui then
+        local old = getgenv().gethui():FindFirstChild("SuperNova_V3")
+        if old then old:Destroy() end
+    elseif lp.PlayerGui:FindFirstChild("SuperNova_V3") then
+        lp.PlayerGui.SuperNova_V3:Destroy()
+    end
+
     local ScreenGui = Instance.new("ScreenGui", lp.PlayerGui)
     ScreenGui.Name = "SuperNova_V3"
     ScreenGui.ResetOnSpawn = false
