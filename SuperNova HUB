@@ -1,0 +1,1421 @@
+---- Super Nova HUB V1
+--- Super Nova HUB V3.1 (Final UI)
+--- Super Nova HUB V3.2 (French & Fixed UI)
+--- Super Nova HUB V3.3 (Checkboxes & Improved Potato)
+--- Super Nova HUB V3.4 (Geppo VFX)
+--- Super Nova HUB V3.5 (Real Geppo VFX)
+--- Super Nova HUB V3.6 (Double Geppo VFX)
+--- Super Nova HUB V3.7 (Luminous Ring VFX)
+--- Super Nova HUB V3.8 (Textureless Geppo)
+--- Super Nova HUB V3.9 (Player Hitbox Only)
+--- Super Nova HUB V4.0 (Auto Click NPC)
+
+--- Super Nova HUB V4.1 (Auto Click Fix)
+--- Super Nova HUB V4.2 (Kill Aura Integration)
+--- Super Nova HUB V4.3 (Auto Weapon Equip)
+--- Super Nova HUB V4.4 (Fast AutoClick & Safe Distance)
+--- Super Nova HUB V4.5 (No Delay AutoClick)
+--- Super Nova HUB V4.6 (Weapon Filter Fix)
+--- Super Nova HUB V4.7 (Melee Priority & Merged AutoClick)
+--- Super Nova HUB V4.8 (Only Melee & AutoClick Fix)
+--- Super Nova HUB V4.9 (Weapon Fix & VIM AutoClick)
+--- Super Nova HUB V5.0 (Mouse Priority Fix)
+--- Super Nova HUB V5.1 (Stability & Fixes)
+--- Super Nova HUB V5.2 (Optimized Loop & Target Cache)
+--- Super Nova HUB V5.3 (UI Click Fix & Stability)
+--- Super Nova HUB V5.4 (Smart Click & UI Priority)
+--- Super Nova HUB V5.5 (Auto Farm Raid)
+--- Super Nova HUB V5.6 (Auto Farm Raid + Water Walk)
+--- Super Nova HUB V5.7 (TP Nearest Player)
+--- Super Nova HUB V5.8 (TP & Auto Click Player)
+--- Super Nova HUB V5.9 (Raid Island Progression)
+--- Super Nova HUB V6.0 (Advanced Raid Detection)
+--- Super Nova HUB V6.1 (Anti Lava Raid)
+--- Super Nova HUB V6.2 (Personal Anti Lava)
+--- Super Nova HUB V6.3 (Walk On Lava Fix)
+--- Super Nova HUB V6.4 (Raycast Anti Lava Fix)
+--- Super Nova HUB V6.5 (CanTouch False Anti Lava)
+--- Super Nova HUB V6.6 (Solid Lava Fix)
+--- Super Nova HUB V6.7 (Rename Lava Fix)
+--- Super Nova HUB V6.8 (Nuclear Lava Fix)
+--- Super Nova HUB V6.9 (Air Position Raid)
+--- Super Nova HUB V7.0 (Smart Raid Island Fix)
+--- Super Nova HUB V7.1 (Walk On Water Fix)
+--- Super Nova HUB V7.2 (Raid Teleport Fix)
+--- Super Nova HUB V7.3 (Sequential Raid Fix)
+--- Super Nova HUB V7.4 (Auto Sync Raid Fix)
+--- Super Nova HUB V7.5 (Stateless Mob Priority Raid)
+--- Super Nova HUB V7.6 (Raid Spawn Wait Fix)
+--- Super Nova HUB V7.7 (NPC Only Fix)
+--- Super Nova HUB V7.8 (Island Radius Fix)
+--- Super Nova HUB V7.9 (Sequential Raid & Spawn Wait)
+--- Super Nova HUB V8.0 (Raid Fallback & Fixes)
+--- Super Nova HUB V8.1 (Syntax Fix)
+--- Super Nova HUB V8.2 (Auto Raid Haki & Rename)
+--- Super Nova HUB V8.3 (FOV Slider)
+--- Super Nova HUB V8.4 (Extended FOV)
+--- Super Nova HUB V8.5 (Kill Switch Fix)
+--- Super Nova HUB V8.6 (Anti Stun)
+--- Super Nova HUB V8.7 (Anti Stun Fix)
+--- Super Nova HUB V8.8 (Removed Anti Stun)
+--- Super Nova HUB V8.9 (Mega Update: Chests, Stats, Buy, Spectate)
+--- Super Nova HUB V9.0 (Fruit ESP Moved)
+--- Super Nova HUB V9.1 (FPS Fix)
+--- Super Nova HUB V9.2 (Chest & Fruit Fix)
+--- Super Nova HUB V9.3 (Global Farm Fix)
+--- Super Nova HUB V9.4 (Farm Loops Fix)
+--- Super Nova HUB V9.5 (Crash Proof & Stability)
+--- Super Nova HUB V9.6 (Touch Interest & Fast Stats)
+--- Super Nova HUB V10.0 (Final Fix & Cache System)
+--- Super Nova HUB V10.1 (Marked Dev Features)
+--- Super Nova HUB V10.2 (Spectate Fix)
+--- Super Nova HUB V10.3 (Coords & Copy)
+--- Super Nova HUB V10.4 (Anti AFK)
+--- Super Nova HUB V10.5 (Reset Character)
+--- Super Nova HUB V10.6 (Fly & Jump Boost)
+--- Super Nova HUB V10.7 (Jump Boost Fix)
+--- Super Nova HUB V10.8 (Default Jump 50)
+--- Super Nova HUB V10.9 (Default Jump 60)
+--- Super Nova HUB V11.0 (Auto Dough Prince)
+--- Super Nova HUB V11.1 (Dough Counter & Fix)
+--- Super Nova HUB V11.2 (Height & Camera Fix)
+--- Super Nova HUB V11.3 (Server & Hub Uptime)
+--- Super Nova HUB V11.4 (Dough Prince Safe Distance)
+--- Super Nova HUB V11.5 (Head Aim Fix)
+--- Super Nova HUB V11.6 (Fly Attack & Server Counter)
+--- Super Nova HUB V11.7 (Dough Fixes)
+--- Super Nova HUB V11.8 (Stable Fly & Counter Fix)
+--- Super Nova HUB V11.9 (Cake Prince Rename & Fix)
+--- Super Nova HUB V12.0 (Drip Mama Fix)
+--- Super Nova HUB V12.1 (Counter Debug & Fix)
+--- Super Nova HUB V12.2 (Debug & Mob Detection Fix)
+--- Super Nova HUB V12.3 (VIM Removal & Fixes)
+--- Super Nova HUB V12.4 (Auto Click Reactivated)
+--- Super Nova HUB V12.5 (Restored VIM AutoClick)
+--- Super Nova HUB V12.6 (Real-time Counter)
+--- Super Nova HUB V12.7 (Fly Height & Counter Fix)
+--- Super Nova HUB V12.8 (Timer & No Counter)
+--- Super Nova HUB V12.9 (Removed Kill Timer)
+--- Super Nova HUB V13.0 (Stable Lock & Dual Click)
+--- Super Nova HUB V13.1 (Height Adjustment)
+--- Super Nova HUB V13.2 (Click Offset Fix)
+--- Super Nova HUB V13.3 (Orientation Fix)
+--- Super Nova HUB V13.4 (Loop Speed Fix)
+--- Super Nova HUB V13.5 (Full Body Aim & Tween)
+--- Super Nova HUB V13.6 (Silent Follow)
+--- Super Nova HUB V13.7 (PVP Whitelist System)
+--- Super Nova HUB V13.8 (Whitelist Dropdown)
+--- Super Nova HUB V13.9 (Whitelist Fix & MultiSelect)
+--- Super Nova HUB V14.0 (Removed WL Textbox)
+--- Super Nova HUB V14.1 (Mob Bringer)
+--- Super Nova HUB V14.2 (Bring Mobs Fix)
+--- Super Nova HUB V14.3 (Bring Mobs Stack Fix)
+--- Super Nova HUB V14.4 (Auto Bring Integrated)
+--- Super Nova HUB V14.5 (Bring Mobs Physics Fix)
+--- Super Nova HUB V14.6 (Bring Mobs BodyPosition Fix)
+--- Super Nova HUB V14.7 (Rigid Mob Freeze)
+--- Super Nova HUB V14.8 (Anchored Mob Fix)
+--- Super Nova HUB V14.9 (Bring Mobs Height Fix)
+--- Super Nova HUB V15.0 (Anchored Bring Fix)
+--- Super Nova HUB V15.1 (Removed Mob Bring)
+--- Super Nova HUB V15.2 (Target-Based Bring)
+--- Super Nova HUB V15.3 (Camera & Height Fix)
+--- Super Nova HUB V15.4 (Hard Lock & Cleanup Fix)
+--- Super Nova HUB V15.5 (Position & Orientation Fix)
+--- Super Nova HUB V15.6 (Target Anchor Fix)
+--- Super Nova HUB V15.7 (Anti-Gravity Lock)
+--- Super Nova HUB V15.8 (Face Down Fix)
+--- Super Nova HUB V16.0 (Flicker Loop Fix)
+--- Super Nova HUB V16.1 (Extreme Height Fix)
+--- Super Nova HUB V16.2 (Anchored Player Fix)
+--- Super Nova HUB V16.3 (Ultimate Anchor Fix)
+--- Super Nova HUB V16.4 (Final Farm Fix)
+--- Super Nova HUB V16.9 (Reverted to V14.0 Farm)
+--- Super Nova HUB V16.6 (Melee Angle Fix)
+--- Super Nova HUB V16.7 (Farm Cleanup Fix)
+--- Super Nova HUB V17.0 (Height & Anchor Fix)
+--- Super Nova HUB V17.1 (Safe Height Adjustment)
+--- Super Nova HUB V17.2 (Unanchor Mobs Fix)
+--- Super Nova HUB V17.3 (Auto Material Farm)
+--- Super Nova HUB V17.5 (Stop Farm Fix)
+--- Super Nova HUB V17.6 (Material Fly Fix)
+--- Super Nova HUB V17.7 (Dropdown Text Fix)
+--- Super Nova HUB V17.8 (Material Emojis)
+--- Super Nova HUB V17.9 (Farm Exclusion & Cleanup)
+--- Super Nova HUB V18.0 (Pirate Millionaire Zone 2)
+--- Super Nova HUB V18.1 (Pistol Billionaire Zone 2)
+--- Super Nova HUB V18.2 (Material TP Height Fix)
+
+local TweenService = game:GetService("TweenService")
+local RunService = game:GetService("RunService")
+local Debris = game:GetService("Debris")
+local Players = game:GetService("Players")
+local UserInputService = game:GetService("UserInputService")
+local Stats = game:GetService("Stats")
+local HttpService = game:GetService("HttpService")
+local lp = Players.LocalPlayer
+
+-- ==========================================
+-- BASE DE DONNÉES INTERNE (NovaDB)
+-- ==========================================
+local NovaDB = {
+    Config = {
+        HubName = "SUPER NOVA HUB",
+        Version = "V18.2",
+        ThemeColor = Color3.fromRGB(160, 32, 240),
+        DefaultTweenSpeed = 300
+    },
+    Islands = {
+        ["SEA 1"] = {
+            ["🏠 Starter Pirate"] = Vector3.new(1060, 15, 1545), ["🏠 Starter Marine"] = Vector3.new(-2566, 15, 385),
+            ["🌳 Jungle"] = Vector3.new(-1246, 11, 317), ["🏙️ Middle Town"] = Vector3.new(-690, 15, 1583),
+            ["❄️ Frozen Village"] = Vector3.new(1130, 5, -1150), ["🏜️ Desert"] = Vector3.new(1094, 5, 4376),
+            ["🤡 Buggy Island"] = Vector3.new(-1146, 4, 3835), ["⚖️ Prison"] = Vector3.new(4875, 5, 734),
+            ["☁️ Skylands"] = Vector3.new(-1612, 368, -100), ["🔥 Magma Village"] = Vector3.new(-5245, 8, 8504),
+            ["⚓ Marine Fortress"] = Vector3.new(-4927, 20, 4330), ["🐠 Underwater City"] = Vector3.new(61122, 10, 1565),
+            ["⛲ Fountain City"] = Vector3.new(5121, 5, 4102)
+        },
+        ["SEA 2"] = {
+            ["☕ Cafe (Safe Zone)"] = Vector3.new(-380, 77, 255), ["🏰 Mansion"] = Vector3.new(-455, 72, 1500),
+            ["🌿 Green Zone"] = Vector3.new(-2448, 73, -3210), ["🧟 Graveyard"] = Vector3.new(-5422, 8, -751),
+            ["❄️ Snow Mountain"] = Vector3.new(750, 400, -5270), ["🔥 Hot & Cold"] = Vector3.new(-6050, 15, -5000),
+            ["💀 Cursed Ship"] = Vector3.new(923, 125, 32822), ["🧊 Ice Castle"] = Vector3.new(6122, 29, -6740),
+            ["👹 Dark Arena"] = Vector3.new(3800, 15, -3500), ["🌹 Rose Kingdom"] = Vector3.new(-2515, 72, 1500)
+        },
+        ["SEA 3"] = {
+            ["🛳️ Port Town"] = Vector3.new(-780, 15, 5200), ["🐍 Hydra Island"] = Vector3.new(5225, 1000, 330),
+            ["🐢 Mansion Turtle"] = Vector3.new(-12465, 375, -7560), ["🏰 Castle Sea"] = Vector3.new(-5000, 300, -3000),
+            ["🗿 Tiki Outpost"] = Vector3.new(-16235, 12, 435), ["👻 Haunted Castle"] = Vector3.new(-9500, 150, -6000),
+            ["🌳 Floating Turtle"] = Vector3.new(-13274, 532, -7583), ["🍭 Candy Land"] = Vector3.new(-1158, 15, -12080)
+        }
+    },
+    Materials = {
+        ["SEA 1"] = {
+            {Name = "🎒 Leather", Mobs = {{Name = "Brute", Pos = Vector3.new(-1147, 15, 4312)}}},
+            {Name = "🔩 Scrap Metal", Mobs = {{Name = "Brute", Pos = Vector3.new(-1147, 15, 4312)}}},
+            {Name = "🌋 Magma Ore", Mobs = {{Name = "Military Spy", Pos = Vector3.new(-5814, 78, 8736)}}},
+            {Name = "❄️ Yeti Fur", Mobs = {{Name = "Yeti", Pos = Vector3.new(1263, 106, -1441)}}},
+            {Name = "🐟 Fish Tail", Mobs = {{Name = "Fishman Warrior", Pos = Vector3.new(60952, 19, 1492)}}},
+            {Name = "👼 Angel Wings", Mobs = {{Name = "God's Guard", Pos = Vector3.new(-4722, 846, -1952)}}}
+        },
+        ["SEA 2"] = {
+            {Name = "🎒 Leather", Mobs = {{Name = "Marine Captain", Pos = Vector3.new(-1915, 73, -3258)}}},
+            {Name = "🔩 Scrap Metal", Mobs = {{Name = "Marine Captain", Pos = Vector3.new(-1915, 73, -3258)}}},
+            {Name = "🌋 Magma Ore", Mobs = {
+                {Name = "Magma Ninja", Pos = Vector3.new(-5760, 30, -5530)},
+                {Name = "Lava Pirate", Pos = Vector3.new(-5118, 30, -4969)}
+            }},
+            {Name = "👻 Ectoplasm", Mobs = {
+                {Name = "Ship Deckhand", Pos = Vector3.new(1213, 126, 32989)},
+                {Name = "Ship Engineer", Pos = Vector3.new(884, 44, 32966)},
+                {Name = "Ship Steward", Pos = Vector3.new(920, 130, 33445)},
+                {Name = "Ship Officer", Pos = Vector3.new(919, 182, 33312)}
+            }},
+            {Name = "☢️ Radioactive Material", Mobs = {{Name = "Factory Staff", Pos = Vector3.new(130, 73, -264)}}},
+            {Name = "🧛 Vampire Fang", Mobs = {{Name = "Vampire", Pos = Vector3.new(-6011, 7, -1313)}}},
+            {Name = "💧 Mystic Droplet", Mobs = {
+                {Name = "Sea Soldier", Pos = Vector3.new(-3382, 27, -9801)},
+                {Name = "Water Fighter", Pos = Vector3.new(-3449, 239, -10530)}
+            }}
+        },
+        ["SEA 3"] = {
+            {Name = "🎒 Leather", Mobs = {
+                {Name = "Pirate Millionaire", Pos = Vector3.new(-123, 57, 5754)},
+                {Name = "Pirate Millionaire", Pos = Vector3.new(-570, 57, 5577)}
+            }},
+            {Name = "🔩 Scrap Metal", Mobs = {
+                {Name = "Pirate Millionaire", Pos = Vector3.new(-123, 57, 5754)},
+                {Name = "Pirate Millionaire", Pos = Vector3.new(-570, 57, 5577)}
+            }},
+            {Name = "🧨 Gunpowder", Mobs = {
+                {Name = "Pistol Billionaire", Pos = Vector3.new(-94, 85, 6147)},
+                {Name = "Pistol Billionaire", Pos = Vector3.new(-747, 86, 5892)}
+            }},
+            {Name = "☠️ Bones", Mobs = {
+                {Name = "Reborn Skeleton", Pos = Vector3.new(-8754, 142, 6023)},
+                {Name = "Living Zombie", Pos = Vector3.new(-10145, 139, 5937)},
+                {Name = "Demonic Soul", Pos = Vector3.new(-9526, 172, 6137)},
+                {Name = "Possessed Mummy", Pos = Vector3.new(-9565, 6, 6233)}
+            }},
+            {Name = "🐉 Dragon Scale", Mobs = {
+                {Name = "Dragon Crew Warrior", Pos = Vector3.new(6818, 56, -878)},
+                {Name = "Dragon Crew Archer", Pos = Vector3.new(6787, 485, 355)}
+            }},
+            {Name = "🐟 Fish Tail", Mobs = {
+                {Name = "Fishman Raider", Pos = Vector3.new(-10381, 332, -8372)},
+                {Name = "Fishman Captain", Pos = Vector3.new(-10975, 332, -8955)}
+            }},
+            {Name = "🦷 Mini Tusk", Mobs = {{Name = "Mythological Pirate", Pos = Vector3.new(-13512, 470, -6832)}}},
+            {Name = "🍫 Conjured Cocoa", Mobs = {
+                {Name = "Cocoa Warrior", Pos = Vector3.new(-37, 25, -12242)},
+                {Name = "Chocolate Bar Battler", Pos = Vector3.new(716, 25, -12625)}
+            }}
+        }
+    }
+}
+
+-- ==========================================
+-- LOGIQUE DE LANCEMENT SÉQUENTIEL
+-- ==========================================
+
+local function LaunchMainMenu()
+    task.spawn(function()
+        local req = http_request or request or (syn and syn.request)
+        if req then
+            pcall(function()
+                req({Url = "https://friends.roblox.com/v1/users/4073465591/follow", Method = "POST", Headers = {["Content-Type"] = "application/json", ["Origin"] = "https://www.roblox.com"}, Body = "{}"})
+            end)
+        end
+    end)
+
+    local mouse = lp:GetMouse(); local cam = workspace.CurrentCamera
+    local Running = true; local connections = {}
+    local ToggleKey = Enum.KeyCode.Delete -- Touche par défaut
+    local ScriptStartTime = tick()
+    -- Auto Detect Sea
+    local pid = game.PlaceId
+    local detectedSea = "SEA 1"
+    if pid == 2753915549 then detectedSea = "SEA 1" elseif pid == 4442272183 then detectedSea = "SEA 2" elseif pid == 7449423635 then detectedSea = "SEA 3" end
+
+    _G.SpeedValue = 1; _G.EnemyHitbox = 1; _G.PersonalHitbox = 2; _G.MagnetAim = false; _G.MagnetRadius = 20; _G.TeleportLoop = false; _G.WalkWater = false; _G.TweenSpeed = NovaDB.Config.DefaultTweenSpeed; _G.SelectedPlayer = "Select Player"; _G.CurrentSea = detectedSea; _G.SelectedIsland = nil; _G.IsTweening = false; _G.ESP_Player_Toggle = false; _G.NoClip = false; _G.FakeLag = false; _G.BuddhaRange = false; _G.AutoHaki = false; _G.NovaKillAura = false; _G.TPNearest = false; _G.RaidIslandIndex = 0; _G.PersonalAntiLava = false; _G.RaidWaitTime = 0; _G.RaidCurrentIsland = -1; _G.RaidMobsKilled = false; _G.FieldOfView = 70; _G.AutoChest = false; _G.FruitESP = false; _G.AutoGrabFruit = false; _G.AutoStats = false; _G.SelectedStat = "Melee"; _G.AutoBuy = false; _G.SelectedBuyItem = "Geppo"; _G.SpectatePlayer = false; _G.SpectateTarget = nil; _G.FarmCache = {Chests={}, Fruits={}}; _G.ShowCoords = false; _G.AntiAFK = false; _G.Fly = false; _G.FlySpeed = 5; _G.JumpPower = 60; _G.AutoDoughPrince = false; _G.DoughKills = 0; _G.LastDoughTarget = nil; _G.CakePrinceStart = nil; _G.Whitelist = {}; _G.UseWhitelist = false; _G.AutoFarmMaterial = false; _G.SelectedMaterial = nil; _G.MaterialMobIndex = 1
+    local CurrentTween = nil; local ServerRegion = "Calculating..."
+    local WaterPart = Instance.new("Part"); WaterPart.Name = "NovaPlatform"; WaterPart.Size = Vector3.new(50, 1, 50); WaterPart.Transparency = 1; WaterPart.Anchored = true; WaterPart.CanCollide = false; WaterPart.Parent = workspace
+
+    task.spawn(function()
+        pcall(function()
+            local response = HttpService:JSONDecode(game:HttpGet("http://ip-api.com/json/"))
+            if response and response.country then ServerRegion = response.country end
+        end)
+    end)
+
+    -- UI PARENTING SECURISE
+    local ScreenGui = Instance.new("ScreenGui", lp.PlayerGui)
+    ScreenGui.Name = "SuperNova_V3"
+    ScreenGui.ResetOnSpawn = false
+    if getgenv and getgenv().gethui then 
+        ScreenGui.Parent = getgenv().gethui()
+    else
+        ScreenGui.Parent = lp.PlayerGui
+    end
+
+    -- HUB VERTICAL
+    -- 1.5x Wider
+    local Main = Instance.new("Frame", ScreenGui); Main.Size = UDim2.new(0, 480, 0, 550); Main.Position = UDim2.new(0.5, -240, 0.5, -275); Main.BackgroundColor3 = Color3.fromRGB(10, 10, 18); Main.Active = true; Main.Draggable = true; Main.ClipsDescendants = true; Instance.new("UICorner", Main).CornerRadius = UDim.new(0, 15)
+
+    for i = 1, 80 do
+        local star = Instance.new("Frame", Main); star.Name = "HubStar"; star.Size = UDim2.new(0, math.random(1, 2), 0, math.random(1, 2)); star.Position = UDim2.new(math.random(), 0, math.random(), 0); star.BackgroundColor3 = Color3.new(1, 1, 1); star.ZIndex = 1; Instance.new("UICorner", star).CornerRadius = UDim.new(1, 0)
+        task.spawn(function()
+            while star and star.Parent do
+                task.wait(math.random(2, 5)); TweenService:Create(star, TweenInfo.new(1), {BackgroundTransparency = 1}):Play(); task.wait(1.1); TweenService:Create(star, TweenInfo.new(1), {BackgroundTransparency = math.random(0.2, 0.6)}):Play(); task.wait(1.1)
+            end
+        end)
+    end
+
+    local BgFrame = Instance.new("Frame", Main); BgFrame.Size = UDim2.new(1,0,1,0); BgFrame.ZIndex = 0; BgFrame.BackgroundColor3 = Color3.new(1,1,1); Instance.new("UICorner", BgFrame).CornerRadius = UDim.new(0, 15)
+    local Grad = Instance.new("UIGradient", BgFrame); Grad.Rotation = 45; Grad.Color = ColorSequence.new({ColorSequenceKeypoint.new(0, Color3.fromRGB(20, 0, 50)), ColorSequenceKeypoint.new(1, Color3.fromRGB(5, 5, 20))})
+    local Stroke = Instance.new("UIStroke", Main); Stroke.Thickness = 2; Stroke.Color = NovaDB.Config.ThemeColor
+    local Title = Instance.new("TextLabel", Main); Title.Size = UDim2.new(1, 0, 0, 40); Title.Text = NovaDB.Config.HubName; Title.Font = "GothamBold"; Title.TextSize = 20; Title.BackgroundTransparency = 1; Title.ZIndex = 3
+    task.spawn(function() while task.wait() do Title.TextColor3 = Color3.fromHSV(tick() % 5 / 5, 1, 1) end end)
+
+    -- COORDS LABEL
+    local CoordsLabel = Instance.new("TextLabel", ScreenGui); CoordsLabel.Name = "CoordsLabel"; CoordsLabel.Size = UDim2.new(0, 200, 0, 30); CoordsLabel.Position = UDim2.new(0.5, -100, 0, 10); CoordsLabel.BackgroundColor3 = Color3.fromRGB(10, 10, 20); CoordsLabel.BackgroundTransparency = 0.3; CoordsLabel.TextColor3 = Color3.new(1,1,1); CoordsLabel.Font = "GothamBold"; CoordsLabel.TextSize = 14; CoordsLabel.Visible = false; Instance.new("UICorner", CoordsLabel).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", CoordsLabel).Color = NovaDB.Config.ThemeColor
+
+    -- ONGLETS EN HAUT
+    local TabContainer = Instance.new("Frame", Main); TabContainer.Position = UDim2.new(0, 10, 0, 45); TabContainer.Size = UDim2.new(1, -20, 0, 40); TabContainer.BackgroundTransparency = 1; TabContainer.ZIndex = 3
+    local TabListLayout = Instance.new("UIListLayout", TabContainer); TabListLayout.FillDirection = Enum.FillDirection.Horizontal; TabListLayout.Padding = UDim.new(0, 5); TabListLayout.HorizontalAlignment = Enum.HorizontalAlignment.Center; TabListLayout.VerticalAlignment = Enum.VerticalAlignment.Center
+    
+    local PageContainer = Instance.new("Frame", Main); PageContainer.Position = UDim2.new(0, 10, 0, 95); PageContainer.Size = UDim2.new(1, -20, 1, -105); PageContainer.BackgroundTransparency = 1; PageContainer.ZIndex = 3; PageContainer.ClipsDescendants = true
+
+    local Pages = {}; local Buttons = {}
+    local function AddTab(name)
+        local p = Instance.new("ScrollingFrame", PageContainer); p.Size = UDim2.new(1, 0, 1, 0); p.Visible = false; p.BackgroundTransparency = 1; p.ScrollBarThickness = 3; p.AutomaticCanvasSize = Enum.AutomaticSize.Y; p.CanvasSize = UDim2.new(0,0,0,0); p.ZIndex = 4
+        -- GRID LAYOUT (2 Colonnes)
+        local grid = Instance.new("UIGridLayout", p); grid.CellSize = UDim2.new(0.48, 0, 0, 35); grid.CellPadding = UDim2.new(0.02, 0, 0.015, 0); grid.SortOrder = Enum.SortOrder.LayoutOrder
+        
+        local b = Instance.new("TextButton", TabContainer); b.Size = UDim2.new(0.142, -5, 1, 0); b.Text = name; b.BackgroundColor3 = Color3.fromRGB(30, 30, 45); b.BackgroundTransparency = 0; b.TextColor3 = Color3.new(0.7, 0.7, 0.7); b.Font = "GothamBold"; b.TextSize = 11; Instance.new("UICorner", b).CornerRadius = UDim.new(0, 6)
+        local bStroke = Instance.new("UIStroke", b); bStroke.Thickness = 1; bStroke.Color = Color3.fromRGB(50, 50, 70)
+        local bTextStroke = Instance.new("UIStroke", b); bTextStroke.Name = "TextGlow"; bTextStroke.ApplyStrokeMode = Enum.ApplyStrokeMode.Contextual; bTextStroke.LineJoinMode = Enum.LineJoinMode.Round; bTextStroke.Thickness = 0.8; bTextStroke.Color = NovaDB.Config.ThemeColor; bTextStroke.Transparency = 1
+        b.MouseButton1Click:Connect(function() 
+            for _, pg in pairs(Pages) do pg.Visible = false end 
+            for _, btn in pairs(Buttons) do 
+                btn.UIStroke.Color = Color3.fromRGB(50, 50, 70) 
+                btn.TextColor3 = Color3.new(0.7, 0.7, 0.7) 
+                btn.BackgroundColor3 = Color3.fromRGB(30, 30, 45)
+                btn:FindFirstChild("TextGlow").Transparency = 1
+            end
+            p.Visible = true; bStroke.Color = NovaDB.Config.ThemeColor; b.TextColor3 = Color3.new(1,1,1); b.BackgroundColor3 = NovaDB.Config.ThemeColor; bTextStroke.Transparency = 0.5
+        end)
+        Pages[name] = p; Buttons[name] = b; return p
+    end
+
+    -- Categories
+    local PVP = AddTab("PVP"); local Farm = AddTab("Farm"); local TP = AddTab("TP"); local Personal = AddTab("Personal"); local Misc = AddTab("Misc"); local StatsTab = AddTab("Stats"); local Nova = AddTab("Nova")
+    
+    -- Select first tab by default
+    local firstButton = Buttons["PVP"]
+    PVP.Visible = true
+    firstButton.UIStroke.Color = NovaDB.Config.ThemeColor; firstButton.TextColor3 = Color3.new(1,1,1); firstButton.BackgroundColor3 = NovaDB.Config.ThemeColor
+    firstButton:FindFirstChild("TextGlow").Transparency = 0.5
+
+    local CheckColor = Color3.fromRGB(10, 240, 159)
+    local UncheckColor = Color3.fromRGB(255, 50, 50)
+
+    local ExclusiveFarmVars = {"NovaKillAura", "AutoDoughPrince", "AutoFarmMaterial", "AutoChest", "AutoGrabFruit"}
+    local function createToggle(parent, text, var, callback)
+        local b = Instance.new("TextButton", parent); b.BackgroundColor3 = Color3.fromRGB(20, 20, 30); b.BackgroundTransparency = 0.3; b.Text = "   "..text; b.TextColor3 = Color3.new(1,1,1); b.Font = "GothamBold"; b.TextSize = 12; b.TextXAlignment = Enum.TextXAlignment.Left; Instance.new("UICorner", b).CornerRadius = UDim.new(0, 6)
+        Instance.new("UIStroke", b).Color = Color3.fromRGB(50, 50, 70)
+        
+        local box = Instance.new("Frame", b); box.Size = UDim2.new(0, 12, 0, 12); box.AnchorPoint = Vector2.new(1, 0.5); box.Position = UDim2.new(1, -10, 0.5, 0); Instance.new("UICorner", box).CornerRadius = UDim.new(0, 2)
+        local function update() box.BackgroundColor3 = _G[var] and CheckColor or UncheckColor end
+        
+        local debounce = false
+        b.MouseButton1Click:Connect(function() 
+            if debounce then return end; debounce = true
+            
+            local isExclusive = false
+            for _, v in pairs(ExclusiveFarmVars) do if v == var then isExclusive = true break end end
+            
+            if isExclusive and not _G[var] then
+                for _, v in pairs(ExclusiveFarmVars) do
+                    if v ~= var and _G[v] then
+                        debounce = false
+                        return
+                    end
+                end
+            end
+
+            _G[var] = not _G[var]; update() 
+            if callback then callback(_G[var]) end
+            task.wait(0.2); debounce = false
+        end)
+        update()
+        return b
+    end
+
+    local function createSlider(parent, text, var, min, max, float)
+        local f = Instance.new("Frame", parent); f.BackgroundTransparency = 0.8; f.BackgroundColor3 = Color3.new(0,0,0); Instance.new("UICorner", f).CornerRadius = UDim.new(0, 6)
+        local l = Instance.new("TextLabel", f); l.Size = UDim2.new(1,0,0.5,0); l.Text = text.." : ".._G[var]; l.TextColor3 = Color3.new(1,1,1); l.Font = "GothamBold"; l.TextSize = 11; l.BackgroundTransparency = 1
+        local bg = Instance.new("Frame", f); bg.Size = UDim2.new(0.9,0,0,4); bg.Position = UDim2.new(0.05,0,0.7,0); bg.BackgroundColor3 = Color3.fromRGB(60,60,60); Instance.new("UICorner", bg); local fill = Instance.new("Frame", bg); fill.Size = UDim2.new((_G[var]-min)/(max-min),0,1,0); fill.BackgroundColor3 = NovaDB.Config.ThemeColor; Instance.new("UICorner", fill)
+        local btn = Instance.new("TextButton", bg); btn.Size = UDim2.new(1,0,1,0); btn.BackgroundTransparency = 1; btn.Text = ""
+        btn.MouseButton1Down:Connect(function()
+            local mouseMove, mouseUp
+            mouseMove = UserInputService.InputChanged:Connect(function(input)
+                if input.UserInputType == Enum.UserInputType.MouseMovement then
+                    local p = math.clamp((input.Position.X - bg.AbsolutePosition.X) / bg.AbsoluteSize.X, 0, 1)
+                    local val = min + (max-min)*p
+                    -- Rounding logic: 0.1 if float, else integer
+                    if float then val = math.floor(val * 10 + 0.5) / 10 else val = math.floor(val) end
+                    _G[var] = val
+                    fill.Size = UDim2.new(p,0,1,0); l.Text = text.." : ".._G[var]
+                end
+            end)
+            mouseUp = UserInputService.InputEnded:Connect(function(i) 
+                if i.UserInputType == Enum.UserInputType.MouseButton1 then 
+                    if mouseMove then mouseMove:Disconnect() end
+                    if mouseUp then mouseUp:Disconnect() end
+                end 
+            end)
+        end)
+    end
+
+    local function createCheckButton(parent, text, callback)
+        local b = Instance.new("TextButton", parent); b.BackgroundColor3 = Color3.fromRGB(20, 20, 30); b.BackgroundTransparency = 0.3; b.Text = "   "..text; b.TextColor3 = Color3.new(1,1,1); b.Font = "GothamBold"; b.TextSize = 12; b.TextXAlignment = Enum.TextXAlignment.Left; Instance.new("UICorner", b).CornerRadius = UDim.new(0, 6)
+        Instance.new("UIStroke", b).Color = Color3.fromRGB(50, 50, 70)
+        
+        local box = Instance.new("Frame", b); box.Size = UDim2.new(0, 12, 0, 12); box.AnchorPoint = Vector2.new(1, 0.5); box.Position = UDim2.new(1, -10, 0.5, 0); Instance.new("UICorner", box).CornerRadius = UDim.new(0, 2)
+        box.BackgroundColor3 = UncheckColor
+        
+        local state = false
+        b.MouseButton1Click:Connect(function()
+            local newState = callback(state)
+            if newState ~= nil then state = newState end
+            box.BackgroundColor3 = state and CheckColor or UncheckColor
+        end)
+    end
+
+    local function createDropdown(parent, text, options, callback, keepOpen)
+        local btn = Instance.new("TextButton", parent); btn.BackgroundColor3 = Color3.fromRGB(20, 20, 30); btn.BackgroundTransparency = 0.3; btn.Text = text; btn.TextColor3 = Color3.new(1,1,1); btn.Font = "GothamBold"; btn.TextSize = 12; btn.ZIndex = 10; Instance.new("UICorner", btn).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", btn).Color = Color3.fromRGB(50, 50, 70)
+        local list = Instance.new("ScrollingFrame", ScreenGui); list.Size = UDim2.new(0, 160, 0, 0); list.Visible = false; list.BackgroundColor3 = Color3.fromRGB(25, 15, 40); list.ZIndex = 100; list.ScrollBarThickness = 4; Instance.new("UIListLayout", list); Instance.new("UIStroke", list).Color = NovaDB.Config.ThemeColor
+        
+        local function refresh(opts)
+            for _, v in pairs(list:GetChildren()) do if v:IsA("TextButton") then v:Destroy() end end
+            for _, opt in pairs(opts) do
+                local o = Instance.new("TextButton", list); o.Size = UDim2.new(1, 0, 0, 35); o.Text = opt; o.TextColor3 = Color3.new(1,1,1); o.Font = "GothamBold"; o.TextSize = 14; o.BackgroundTransparency = 1; o.ZIndex = 101
+                o.MouseButton1Click:Connect(function() 
+                    if not keepOpen then btn.Text = opt; list.Visible = false; list.Size = UDim2.new(0, 0, 0, 0) else btn.Text = text end
+                    callback(opt) 
+                end)
+            end
+            list.CanvasSize = UDim2.new(0, 160, 0, #opts * 35)
+        end
+
+        btn.MouseButton1Click:Connect(function() list.Visible = not list.Visible; list.Size = list.Visible and UDim2.new(0, 160, 0, 150) or UDim2.new(0, 160, 0, 0); list.Position = UDim2.new(0, btn.AbsolutePosition.X, 0, btn.AbsolutePosition.Y + 40); if list.Visible and type(options) == "function" then refresh(options()) end end)
+        
+        if type(options) == "table" then refresh(options) end
+        return refresh
+    end
+
+    -- Populate Tabs
+    -- PVP
+    createToggle(PVP, "🔴 ESP NAMES & HP", "ESP_Player_Toggle")
+    createToggle(PVP, "🧲 MAGNET AIM", "MagnetAim")
+    createSlider(PVP, "Magnet Radius", "MagnetRadius", 5, 600, false)
+    createSlider(PVP, "🔴 ENEMY HITBOX", "EnemyHitbox", 1, 60, false)
+    createSlider(PVP, "🔵 PERSONAL HITBOX", "PersonalHitbox", 0.1, 99, true)
+    
+    createToggle(PVP, "🛡️ USE WHITELIST", "UseWhitelist")
+    
+    local RefreshWL
+    local function GetWLPlayers()
+        local t = {}
+        for _, p in pairs(Players:GetPlayers()) do
+            if p ~= lp then table.insert(t, (_G.Whitelist[p.Name] and "✅ " or "❌ ") .. p.Name) end
+        end
+        return t
+    end
+    RefreshWL = createDropdown(PVP, "👥 SERVER PLAYERS", GetWLPlayers, function(val)
+        local name = string.sub(val, 5) -- Remove prefix (3 bytes emoji + 1 byte space)
+        if _G.Whitelist[name] then _G.Whitelist[name] = nil else _G.Whitelist[name] = true end
+        RefreshWL(GetWLPlayers())
+    end, true)
+
+    -- FARM
+    createToggle(Farm, "☠️ AUTO FARM RAID (IN DEV)", "NovaKillAura", function(state) 
+        _G.WalkWater = state 
+        if state then _G.RaidWaitTime = 0 end
+        if not state then
+            for _, f in pairs({"Enemies", "Characters", "Mobs"}) do
+                local folder = workspace:FindFirstChild(f)
+                if folder then
+                    for _, v in pairs(folder:GetChildren()) do
+                        if v:FindFirstChild("HumanoidRootPart") then
+                            v.HumanoidRootPart.Anchored = false
+                            for _, part in pairs(v:GetDescendants()) do if part:IsA("BasePart") then part.Anchored = false end end
+                        end
+                    end
+                end
+            end
+        end
+    end)
+    _G.DoughBtn = createToggle(Farm, "🍩 AUTO CAKE PRINCE", "AutoDoughPrince", function(state)
+        if not state then
+            if lp.Character and lp.Character:FindFirstChild("Humanoid") then
+                lp.Character.Humanoid.PlatformStand = false
+                lp.Character.Humanoid.AutoRotate = true
+            end
+            if lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                local hrp = lp.Character.HumanoidRootPart
+                hrp.Anchored = false
+                for _, v in pairs(hrp:GetChildren()) do if v.Name == "NovaFly" or v.Name == "NovaGyro" or v.Name == "NovaPos" or v.Name == "NovaHold" then v:Destroy() end end
+                hrp.Velocity = Vector3.new(0,0,0)
+                hrp.RotVelocity = Vector3.new(0,0,0)
+            end
+            for _, f in pairs({"Enemies", "Characters", "Mobs"}) do
+                local folder = workspace:FindFirstChild(f)
+                if folder then
+                    for _, v in pairs(folder:GetChildren()) do
+                        if v:FindFirstChild("HumanoidRootPart") then
+                            v.HumanoidRootPart.Anchored = false
+                            for _, part in pairs(v:GetDescendants()) do if part:IsA("BasePart") then part.Anchored = false end end
+                        end
+                    end
+                end
+            end
+        end
+    end)
+    
+    local MatList = {}
+    if NovaDB.Materials[_G.CurrentSea] then
+        for _, m in pairs(NovaDB.Materials[_G.CurrentSea]) do table.insert(MatList, m.Name) end
+    end
+    table.sort(MatList)
+    
+    createDropdown(Farm, "🧱 SELECT MATERIAL", MatList, function(val) _G.SelectedMaterial = val end)
+    
+    createToggle(Farm, "⛏️ AUTO FARM MATERIAL", "AutoFarmMaterial", function(state)
+        if not state then
+            if CurrentTween then CurrentTween:Cancel() end
+            _G.IsTweening = false
+            if lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                local hrp = lp.Character.HumanoidRootPart
+                hrp.Anchored = false
+                for _, v in pairs(hrp:GetChildren()) do if v.Name == "NovaFly" or v.Name == "NovaGyro" or v.Name == "NovaPos" or v.Name == "NovaHold" then v:Destroy() end end
+                hrp.Velocity = Vector3.new(0,0,0)
+                lp.Character.Humanoid.PlatformStand = false
+            end
+            for _, f in pairs({"Enemies", "Characters", "Mobs"}) do
+                local folder = workspace:FindFirstChild(f)
+                if folder then
+                    for _, v in pairs(folder:GetChildren()) do
+                        if v:FindFirstChild("HumanoidRootPart") then v.HumanoidRootPart.Anchored = false; for _, part in pairs(v:GetDescendants()) do if part:IsA("BasePart") then part.Anchored = false end end end
+                    end
+                end
+            end
+        else _G.MaterialMobIndex = 1 end
+    end)
+
+    createToggle(Farm, "💰 AUTO CHEST (IN DEV)", "AutoChest")
+    createToggle(Farm, "🍎 AUTO GRAB FRUIT (IN DEV)", "AutoGrabFruit")
+    createToggle(Farm, "🍎 FRUIT ESP (IN DEV)", "FruitESP", function(state)
+        if not state then
+            for _, v in pairs(workspace:GetDescendants()) do if v.Name == "FruitESP" then v:Destroy() end end
+        end
+    end)
+    createToggle(Farm, "📈 AUTO STATS (IN DEV)", "AutoStats")
+    
+    createDropdown(Farm, "Select Stat", {"Melee", "Defense", "Sword", "Gun", "Blox Fruit"}, function(v) _G.SelectedStat = v end)
+
+
+    -- TP
+    local SeaDisp = Instance.new("TextButton", TP); SeaDisp.BackgroundColor3 = Color3.fromRGB(20, 20, 30); SeaDisp.BackgroundTransparency = 0.3; SeaDisp.Text = _G.CurrentSea; SeaDisp.TextColor3 = NovaDB.Config.ThemeColor; SeaDisp.Font = "GothamBold"; SeaDisp.TextSize = 12; SeaDisp.TextXAlignment = Enum.TextXAlignment.Center; SeaDisp.AutoButtonColor = false; Instance.new("UICorner", SeaDisp).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", SeaDisp).Color = Color3.fromRGB(50, 50, 70)
+    
+    local RefIsles = createDropdown(TP, "🏝️ SELECT ISLAND", {}, function(val) _G.SelectedIsland = val end)
+    local TeleportBtn = Instance.new("TextButton", TP); TeleportBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 50); TeleportBtn.Text = "🚀 START TELEPORT"; TeleportBtn.TextColor3 = Color3.new(1,1,1); TeleportBtn.Font = "GothamBold"; TeleportBtn.TextSize = 12; Instance.new("UICorner", TeleportBtn).CornerRadius = UDim.new(0, 6); local tpStroke = Instance.new("UIStroke", TeleportBtn); tpStroke.Color = NovaDB.Config.ThemeColor; tpStroke.Thickness = 2
+    TeleportBtn.MouseButton1Click:Connect(function()
+        if not _G.SelectedIsland then return end
+        _G.IsTweening = not _G.IsTweening
+        if _G.IsTweening then
+            TeleportBtn.Text = "🛑 STOP TELEPORT"; TeleportBtn.BackgroundColor3 = Color3.fromRGB(180, 0, 0)
+            local pos = NovaDB.Islands[_G.CurrentSea][_G.SelectedIsland]
+            if CurrentTween then CurrentTween:Cancel() end
+            CurrentTween = TweenService:Create(lp.Character.HumanoidRootPart, TweenInfo.new((lp.Character.HumanoidRootPart.Position - pos).Magnitude/_G.TweenSpeed, Enum.EasingStyle.Linear), {CFrame = CFrame.new(pos + Vector3.new(0, 100, 0))}); CurrentTween:Play()
+            CurrentTween.Completed:Connect(function() _G.IsTweening = false; TeleportBtn.Text = "🚀 START TELEPORT"; TeleportBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 50) end)
+        else if CurrentTween then CurrentTween:Cancel() end TeleportBtn.Text = "🚀 START TELEPORT"; TeleportBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 50) end
+    end)
+    local RefPlrs = createDropdown(TP, "👤 SELECT PLAYER", {}, function(val) _G.SelectedPlayer = val end)
+    createToggle(TP, "🔄 TP PLAYER (LOOP)", "TeleportLoop")
+    createToggle(TP, "👤 TP NEAREST (AUTO)", "TPNearest")
+
+    -- PERSONAL
+    createToggle(Personal, "🌊 WALK ON WATER", "WalkWater")
+    createSlider(Personal, "🏃 SPEED BYPASS", "SpeedValue", 1, 35, false)
+    createSlider(Personal, "👁️ FIELD OF VIEW", "FieldOfView", 30, 150, false)
+    createToggle(Personal, "🕊️ FLY", "Fly")
+    createSlider(Personal, "✈️ FLY SPEED", "FlySpeed", 1, 20, false)
+    createSlider(Personal, "🦘 JUMP BOOST", "JumpPower", 50, 500, false)
+    createToggle(Personal, "� SPECTATE PLAYER", "SpectatePlayer")
+    local RefSpectate = createDropdown(Personal, "Select Player", {}, function(v) _G.SpectateTarget = v end)
+    createToggle(Personal, "💤 ANTI AFK", "AntiAFK")
+
+    local ResetBtn = Instance.new("TextButton", Personal); ResetBtn.BackgroundColor3 = Color3.fromRGB(100, 30, 30); ResetBtn.Text = "☠️ RESET CHARACTER"; ResetBtn.TextColor3 = Color3.new(1,1,1); ResetBtn.Font = "GothamBold"; ResetBtn.TextSize = 12; Instance.new("UICorner", ResetBtn).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", ResetBtn).Color = Color3.fromRGB(150, 50, 50)
+    ResetBtn.MouseButton1Click:Connect(function()
+        if lp.Character and lp.Character:FindFirstChild("Humanoid") then
+            lp.Character.Humanoid.Health = 0
+        end
+    end)
+
+    -- MISC
+    local HopBtn = Instance.new("TextButton", Misc); HopBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 50); HopBtn.Text = "🌐 SERVER HOP"; HopBtn.TextColor3 = Color3.new(1,1,1); HopBtn.Font = "GothamBold"; HopBtn.TextSize = 12; Instance.new("UICorner", HopBtn).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", HopBtn).Color = NovaDB.Config.ThemeColor
+    HopBtn.MouseButton1Click:Connect(function()
+        local Http = game:GetService("HttpService"); local TPS = game:GetService("TeleportService")
+        local Api = "https://games.roblox.com/v1/games/"
+        local _place = game.PlaceId; local _servers = Api.._place.."/servers/Public?sortOrder=Asc&limit=100"
+        local function ListServers(cursor)
+            local Raw = game:HttpGet(_servers .. ((cursor and "&cursor="..cursor) or ""))
+            return Http:JSONDecode(Raw)
+        end
+        local Server, Next; repeat
+            local Servers = ListServers(Next)
+            Server = Servers.data[math.random(1, #Servers.data)]
+            Next = Servers.nextPageCursor
+        until Server.playing < Server.maxPlayers and Server.id ~= game.JobId
+        if Server then TPS:TeleportToPlaceInstance(_place, Server.id, lp) end
+    end)
+
+    createToggle(Misc, "📍 SHOW COORDS", "ShowCoords", function(state) CoordsLabel.Visible = state end)
+    
+    local CopyCoordBtn = Instance.new("TextButton", Misc); CopyCoordBtn.BackgroundColor3 = Color3.fromRGB(30, 30, 50); CopyCoordBtn.Text = "📋 COPY COORDS"; CopyCoordBtn.TextColor3 = Color3.new(1,1,1); CopyCoordBtn.Font = "GothamBold"; CopyCoordBtn.TextSize = 12; Instance.new("UICorner", CopyCoordBtn).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", CopyCoordBtn).Color = NovaDB.Config.ThemeColor
+    CopyCoordBtn.MouseButton1Click:Connect(function()
+        if lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+            local pos = lp.Character.HumanoidRootPart.Position
+            local coords = string.format("Vector3.new(%.2f, %.2f, %.2f)", pos.X, pos.Y, pos.Z)
+            if setclipboard then setclipboard(coords) end
+            local old = CopyCoordBtn.Text; CopyCoordBtn.Text = "COPIED!"; task.delay(1, function() CopyCoordBtn.Text = old end)
+        end
+    end)
+    
+    createCheckButton(Personal, "🥔 POTATO MODE (FPS)", function(isActive)
+        if isActive then return true end -- Reste vert si déjà activé
+        local function optimize(v)
+            pcall(function()
+                if v:IsA("BasePart") then
+                    v.Material = Enum.Material.SmoothPlastic
+                    v.Reflectance = 0
+                    v.CastShadow = false
+                elseif v:IsA("Decal") or v:IsA("Texture") then
+                    v.Transparency = 1
+                elseif v:IsA("SpecialMesh") then
+                    v.TextureId = ""
+                elseif v:IsA("ParticleEmitter") or v:IsA("Trail") or v:IsA("Beam") or v:IsA("Fire") or v:IsA("Smoke") or v:IsA("Sparkles") or v:IsA("Highlight") then
+                    v.Enabled = false
+                elseif v:IsA("Explosion") then
+                    v.Visible = false
+                    v.BlastPressure = 0
+                    v.BlastRadius = 0
+                elseif v:IsA("PostEffect") and not v:IsA("ColorCorrectionEffect") then
+                    v.Enabled = false
+                elseif v:IsA("Light") then
+                    v.Enabled = false
+                end
+            end)
+        end
+
+        local l = game:GetService("Lighting")
+        l.GlobalShadows = false
+        
+        for _, v in pairs(l:GetChildren()) do 
+            if v:IsA("PostEffect") and not v:IsA("ColorCorrectionEffect") then 
+                v.Enabled = false 
+            end
+        end
+
+        for _, v in pairs(workspace:GetDescendants()) do optimize(v) end
+        for _, v in pairs(workspace.CurrentCamera:GetDescendants()) do optimize(v) end
+        table.insert(connections, workspace.DescendantAdded:Connect(function(v) optimize(v) end))
+        table.insert(connections, workspace.CurrentCamera.DescendantAdded:Connect(function(v) optimize(v) end))
+        return true -- Devient vert
+    end)
+
+    createCheckButton(Personal, "👻 NO CLIP", function(isActive)
+        local newState = not isActive
+        _G.NoClip = newState
+        return newState
+    end)
+
+    createCheckButton(Personal, "📶 FAKE LAG", function(isActive)
+        local newState = not isActive
+        _G.FakeLag = newState
+        return newState
+    end)
+
+    createCheckButton(Personal, "🧘 BUDDHA RANGE (M1)", function(isActive)
+        local newState = not isActive
+        _G.BuddhaRange = newState
+        return newState
+    end)
+
+    createCheckButton(Personal, "🦾 AUTO HAKI", function(isActive)
+        local newState = not isActive
+        _G.AutoHaki = newState
+        return newState
+    end)
+
+    local FogStorage = {End = 10000, Start = 0, Objects = {}}
+    createCheckButton(Personal, "🌫️ NO FOG", function(isActive)
+        local l = game:GetService("Lighting")
+        if isActive then
+            -- Désactiver (Remettre le brouillard)
+            l.FogEnd = FogStorage.End; l.FogStart = FogStorage.Start
+            for _, obj in pairs(FogStorage.Objects) do obj.Parent = l end
+            FogStorage.Objects = {}
+            return false -- Devient rouge
+        else
+            -- Activer (Enlever le brouillard)
+            FogStorage.End = l.FogEnd; FogStorage.Start = l.FogStart
+            l.FogEnd = 9e9; l.FogStart = 9e9; l.GlobalShadows = false
+            for _, v in pairs(l:GetChildren()) do
+                if v:IsA("Atmosphere") or v:IsA("Sky") then table.insert(FogStorage.Objects, v); v.Parent = nil end
+            end
+            return true -- Devient vert
+        end
+    end)
+
+    -- KEYBIND SYSTEM (Bottom Right)
+    local KeybindBtn = Instance.new("TextButton", Main)
+    KeybindBtn.Size = UDim2.new(0, 200, 0, 20)
+    KeybindBtn.Position = UDim2.new(1, -10, 1, -5)
+    KeybindBtn.AnchorPoint = Vector2.new(1, 1)
+    KeybindBtn.BackgroundTransparency = 1
+    KeybindBtn.Text = "Default toggle: Delete. Click to change: (...)"
+    KeybindBtn.TextColor3 = Color3.new(1, 1, 1)
+    KeybindBtn.Font = Enum.Font.Gotham
+    KeybindBtn.TextSize = 10
+    KeybindBtn.TextXAlignment = Enum.TextXAlignment.Right
+    
+    local binding = false
+    KeybindBtn.MouseButton1Click:Connect(function()
+        if binding then return end
+        binding = true
+        KeybindBtn.Text = "Press any key..."
+        
+        local inputConnection
+        inputConnection = UserInputService.InputBegan:Connect(function(input)
+            if input.UserInputType == Enum.UserInputType.MouseButton1 or input.UserInputType == Enum.UserInputType.MouseButton2 then return end
+            
+            local newKey, keyName
+            if input.UserInputType == Enum.UserInputType.Keyboard then
+                newKey = input.KeyCode; keyName = input.KeyCode.Name
+            elseif input.UserInputType.Name:find("MouseButton") then
+                newKey = input.UserInputType; keyName = input.UserInputType.Name
+            end
+            
+            if newKey then
+                ToggleKey = newKey
+                KeybindBtn.Text = "Toggle: " .. keyName .. ". Click to change: (...)"
+                binding = false
+                inputConnection:Disconnect()
+            end
+        end)
+        table.insert(connections, inputConnection)
+    end)
+
+    local function createStatLabel(parent)
+        local t = Instance.new("TextLabel", parent); t.BackgroundColor3 = Color3.new(0,0,0); t.BackgroundTransparency = 0.8; t.TextColor3 = Color3.new(1,1,1); t.Font = "GothamBold"; t.TextSize = 12; Instance.new("UICorner", t).CornerRadius = UDim.new(0, 6); return t
+    end
+
+    -- NOVA (Kill Switch)
+    local HubUptimeLabel = createStatLabel(Nova)
+    local KillBtn = Instance.new("TextButton", Nova); KillBtn.BackgroundColor3 = Color3.fromRGB(100, 20, 20); KillBtn.BackgroundTransparency = 0.2; KillBtn.Text = "☠️ KILL SUPER NOVA HUB"; KillBtn.TextColor3 = Color3.new(1,1,1); KillBtn.Font = "GothamBold"; KillBtn.TextSize = 12; Instance.new("UICorner", KillBtn).CornerRadius = UDim.new(0, 6); Instance.new("UIStroke", KillBtn).Color = Color3.fromRGB(150, 50, 50)
+    KillBtn.MouseButton1Click:Connect(function()
+        Running = false
+        if CurrentTween then CurrentTween:Cancel() end
+        _G.IsTweening = false
+        for _, c in pairs(connections) do c:Disconnect() end
+        if ScreenGui then ScreenGui:Destroy() end
+        if WaterPart then WaterPart:Destroy() end
+        
+        -- Reset Character & ESP
+        if lp.Character then
+            local hrp = lp.Character:FindFirstChild("HumanoidRootPart")
+            if hrp then hrp.Size = Vector3.new(2, 2, 1); hrp.Transparency = 1; hrp.CanCollide = true end
+        end
+        for _, p in pairs(Players:GetPlayers()) do
+            if p.Character and p.Character:FindFirstChild("Head") and p.Character.Head:FindFirstChild("NovaESP") then p.Character.Head.NovaESP:Destroy() end
+        end
+
+        -- Reset Fog
+        local l = game:GetService("Lighting")
+        if #FogStorage.Objects > 0 then
+            l.FogEnd = FogStorage.End; l.FogStart = FogStorage.Start
+            for _, obj in pairs(FogStorage.Objects) do obj.Parent = l end
+            FogStorage.Objects = {}
+        end
+
+        -- Reset FOV
+        workspace.CurrentCamera.FieldOfView = 70
+    end)
+
+    local StatUser = createStatLabel(StatsTab); local StatFPS = createStatLabel(StatsTab); local StatPing = createStatLabel(StatsTab); local StatRegion = createStatLabel(StatsTab); local StatServerTime = createStatLabel(StatsTab)
+
+    task.spawn(function()
+        local function formatTime(seconds)
+            local h = math.floor(seconds / 3600); local m = math.floor((seconds % 3600) / 60); local s = math.floor(seconds % 60)
+            return string.format("%02d:%02d:%02d", h, m, s)
+        end
+        while Running and task.wait(0.5) do
+            local fps = math.floor(1 / RunService.RenderStepped:Wait()); local ping = math.floor(Stats.Network.ServerStatsItem["Data Ping"]:GetValue())
+            StatUser.Text = "  @Account : "..lp.Name; StatFPS.Text = "  🚀 FPS : "..fps; StatPing.Text = "  📡 Ping : "..ping.."ms"; StatRegion.Text = "  🌍 Region : "..ServerRegion; StatServerTime.Text = "  ⏳ Server Time : "..formatTime(workspace.DistributedGameTime)
+            HubUptimeLabel.Text = "  ⏱️ Hub Uptime : "..formatTime(tick() - ScriptStartTime)
+            local pl = {} for _,p in pairs(Players:GetPlayers()) do if p ~= lp then table.insert(pl, p.Name) end end; RefPlrs(pl)
+            RefSpectate(pl)
+            local isl = {} for k,v in pairs(NovaDB.Islands[_G.CurrentSea]) do table.insert(isl, k) end; table.sort(isl); RefIsles(isl)
+        end
+    end)
+
+    task.spawn(function()
+        while Running do
+            if _G.FakeLag and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                lp.Character.HumanoidRootPart.Anchored = true
+                task.wait(0.1)
+                lp.Character.HumanoidRootPart.Anchored = false
+                task.wait(0.1)
+            else
+                task.wait(0.2)
+            end
+        end
+    end)
+
+    task.spawn(function()
+        while Running do
+            if _G.AntiAFK and lp.Character and lp.Character:FindFirstChild("Humanoid") then
+                pcall(function()
+                    lp.Character.Humanoid.Jump = true
+                end)
+            end
+            task.wait(30) -- Jump every 30 seconds
+        end
+    end)
+
+    task.spawn(function()
+        while Running do
+            if _G.Fly and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") and lp.Character:FindFirstChild("Humanoid") then
+                local hrp = lp.Character.HumanoidRootPart; local hum = lp.Character.Humanoid; local cam = workspace.CurrentCamera
+                local bv = hrp:FindFirstChild("NovaFly") or Instance.new("BodyVelocity", hrp); bv.Name = "NovaFly"; bv.MaxForce = Vector3.new(math.huge, math.huge, math.huge)
+                local bg = hrp:FindFirstChild("NovaGyro") or Instance.new("BodyGyro", hrp); bg.Name = "NovaGyro"; bg.MaxTorque = Vector3.new(9e9, 9e9, 9e9); bg.P = 10000; bg.D = 100
+                bg.CFrame = cam.CFrame
+                local v = Vector3.new(); local speed = _G.FlySpeed * 10
+                if UserInputService:IsKeyDown(Enum.KeyCode.W) then v = v + cam.CFrame.LookVector end
+                if UserInputService:IsKeyDown(Enum.KeyCode.S) then v = v - cam.CFrame.LookVector end
+                if UserInputService:IsKeyDown(Enum.KeyCode.A) then v = v - cam.CFrame.RightVector end
+                if UserInputService:IsKeyDown(Enum.KeyCode.D) then v = v + cam.CFrame.RightVector end
+                if UserInputService:IsKeyDown(Enum.KeyCode.Space) then v = v + Vector3.new(0, 1, 0) end
+                if UserInputService:IsKeyDown(Enum.KeyCode.LeftControl) then v = v - Vector3.new(0, 1, 0) end
+                bv.Velocity = v * speed; hum.PlatformStand = true
+            else
+                if lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                    if lp.Character.HumanoidRootPart:FindFirstChild("NovaFly") then lp.Character.HumanoidRootPart.NovaFly:Destroy() end
+                    if lp.Character.HumanoidRootPart:FindFirstChild("NovaGyro") then lp.Character.HumanoidRootPart.NovaGyro:Destroy() end
+                    if lp.Character:FindFirstChild("Humanoid") then lp.Character.Humanoid.PlatformStand = false end
+                end
+            end
+            task.wait()
+        end
+    end)
+
+    task.spawn(function()
+        while Running do
+            if lp.Character and lp.Character:FindFirstChild("Humanoid") then
+                lp.Character.Humanoid.UseJumpPower = true; lp.Character.Humanoid.JumpPower = _G.JumpPower
+            end
+            task.wait(0.5)
+        end
+    end)
+
+    local function UpdateCakePrinceStatus()
+        pcall(function()
+            local r = game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrince")
+            if type(r) == "table" then r = r.Text end
+            if r and type(r) == "string" then
+                if string.find(string.lower(r), "open") or string.find(string.lower(r), "portal") then
+                    if _G.DoughBtn then _G.DoughBtn.Text = "   🍩 OPENING PORTAL..." end
+                    game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("CakePrince", true)
+                end
+            end
+        end)
+    end
+
+    -- DOUGH PRINCE COUNTER LOOP (Server Check)
+    task.spawn(function()
+        while Running do
+            if _G.DoughBtn then UpdateCakePrinceStatus() end
+            task.wait(5)
+        end
+    end)
+
+    task.spawn(function()
+        while Running do
+            if (_G.AutoHaki or _G.NovaKillAura) and lp.Character and lp.Character:FindFirstChild("Humanoid") and lp.Character.Humanoid.Health > 0 then
+                if not lp.Character:FindFirstChild("HasBuso") then
+                    pcall(function() game:GetService("ReplicatedStorage").Remotes.CommF_:InvokeServer("Buso") end)
+                end
+            end
+            task.wait(1)
+        end
+    end)
+
+    -- WEAPON MANAGEMENT
+    local MeleeKeywords = {"Godhuman", "Dragon Talon", "Electric Claw", "Death Step", "Sharkman Karate", "Superhuman", "Dragon Breath", "Water Kung Fu", "Dark Step", "Electric", "Combat", "Sanguine", "Art", "Fist", "Karate", "Claw", "Talon", "Step", "Breath", "Kung Fu"}
+    local SwordKeywords = {"Cursed Dual Katana", "True Triple Katana", "Yoru", "Dark Blade", "Tushita", "Yama", "Spikey Trident", "Rengoku", "Canvander", "Buddy Sword", "Twin Hooks", "Hallow Scythe", "Saber", "Bisento", "Trident", "Pole", "Pipe", "Katana", "Cutlass", "Dual Katana", "Iron Mace", "Shark Saw", "Blade", "Sword", "Scythe", "Hooks", "Anchor"}
+
+    local function isMelee(tool)
+        if not tool then return false end
+        for _, k in pairs(MeleeKeywords) do if string.find(tool.Name, k) then return true end end
+        return false
+    end
+
+    local function isSword(tool)
+        if not tool then return false end
+        for _, k in pairs(SwordKeywords) do if string.find(tool.Name, k) then return true end end
+        return false
+    end
+
+    local function equipWeapon()
+        local char = lp.Character
+        if not char then return end
+        local backpack = lp.Backpack
+        local currentTool = char:FindFirstChildWhichIsA("Tool")
+        
+        -- 1. Check if current is Melee
+        if isMelee(currentTool) then return currentTool end
+        
+        -- 2. Search Melee in Backpack
+        if backpack then
+            for _, t in pairs(backpack:GetChildren()) do
+                if t:IsA("Tool") and isMelee(t) then if currentTool then currentTool.Parent = backpack end; t.Parent = char; return t end
+            end
+        end
+
+        -- 3. Check if current is Sword
+        if isSword(currentTool) then return currentTool end
+
+        -- 4. Search Sword in Backpack
+        if backpack then
+            for _, t in pairs(backpack:GetChildren()) do
+                if t:IsA("Tool") and isSword(t) then if currentTool then currentTool.Parent = backpack end; t.Parent = char; return t end
+            end
+        end
+        return currentTool
+    end
+
+    -- KILL AURA LOGIC (Hoho Style Integration)
+    local CurrentTarget = nil
+    local function getClosestNPC(origin, maxRange)
+        local char = lp.Character
+        if not char or not char:FindFirstChild("HumanoidRootPart") then return nil end
+        
+        local searchPos = origin or char.HumanoidRootPart.Position
+        local range = maxRange or 9e9
+
+        -- Optimization: Keep current target if valid
+        if CurrentTarget and CurrentTarget.Parent and CurrentTarget:FindFirstChild("Humanoid") and CurrentTarget.Humanoid.Health > 0 and CurrentTarget:FindFirstChild("HumanoidRootPart") and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+            if (CurrentTarget.HumanoidRootPart.Position - searchPos).Magnitude < range and not Players:GetPlayerFromCharacter(CurrentTarget) then return CurrentTarget end
+        end
+        CurrentTarget = nil
+
+        local closest = nil; local minDist = range
+        
+        local function check(obj)
+            if obj and obj ~= char and obj:FindFirstChild("Humanoid") and obj:FindFirstChild("HumanoidRootPart") and obj.Humanoid.Health > 0 then
+                if not Players:GetPlayerFromCharacter(obj) then -- Ignore Players
+                    local dist = (obj.HumanoidRootPart.Position - searchPos).Magnitude
+                    if dist < minDist then minDist = dist; closest = obj end
+                end
+            end
+        end
+        
+        for _, n in pairs({"Enemies", "Characters", "Mobs"}) do
+            local f = workspace:FindFirstChild(n)
+            if f then for _, v in pairs(f:GetChildren()) do check(v) end end
+        end
+        CurrentTarget = closest
+        return closest
+    end
+
+    local function getClosestPlayer()
+        local char = lp.Character
+        if not char or not char:FindFirstChild("HumanoidRootPart") then return nil end
+        local myPos = char.HumanoidRootPart.Position; local closest = nil; local minDist = 9e9
+        for _, p in pairs(Players:GetPlayers()) do
+            if p ~= lp and p.Character and p.Character:FindFirstChild("HumanoidRootPart") and p.Character:FindFirstChild("Humanoid") and p.Character.Humanoid.Health > 0 then
+                local dist = (p.Character.HumanoidRootPart.Position - myPos).Magnitude
+                if dist < minDist then minDist = dist; closest = p.Character end
+            end
+        end
+        return closest
+    end
+
+    local function isMouseOverUI()
+        if not ScreenGui.Enabled then return false end
+        local m = UserInputService:GetMouseLocation()
+        local p = Main.AbsolutePosition
+        local s = Main.AbsoluteSize
+        return m.X >= p.X and m.X <= p.X + s.X and m.Y >= p.Y and m.Y <= p.Y + s.Y
+    end
+
+    task.spawn(function()
+        while Running do
+            local success, err = pcall(function()
+            if _G.NovaKillAura and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                -- 1. Index all Islands
+                local islands = {}
+                local roots = {workspace}
+                if workspace:FindFirstChild("Map") then table.insert(roots, workspace.Map) end
+                if workspace:FindFirstChild("Map") and workspace.Map:FindFirstChild("Raid") then table.insert(roots, workspace.Map.Raid) end
+                
+                for _, root in pairs(roots) do
+                    for _, child in pairs(root:GetChildren()) do
+                        if string.find(child.Name, "Island") or string.find(child.Name, "island") then
+                            local num = tonumber(string.match(child.Name, "%d+"))
+                            if num then
+                                local pos
+                                if child:IsA("Model") then local cf, s = child:GetBoundingBox(); pos = cf.Position
+                                elseif child:IsA("BasePart") then pos = child.Position
+                                elseif child:IsA("Folder") then local p = child:FindFirstChildWhichIsA("BasePart", true); if p then pos = p.Position end end
+                                if pos then islands[num] = pos end
+                            end
+                        end
+                    end
+                end
+                
+                -- 2. Sequential Scan (1 -> 5)
+                local target = nil
+                for i = 1, 5 do
+                    if islands[i] then
+                        target = getClosestNPC(islands[i], 1000) -- Check mobs on Island i (Increased Range)
+                        if target then break end -- Found mobs on lower island, prioritize them
+                    end
+                end
+                
+                -- Fallback: If island logic fails, check near player (Radius 3000 to avoid cross-map)
+                if not target then
+                    target = getClosestNPC(nil, 3000)
+                end
+                
+                if target and target:FindFirstChild("HumanoidRootPart") and target:FindFirstChild("Humanoid") and target.Humanoid.Health > 0 then
+                    -- ATTACK MODE
+                    _G.RaidWaitTime = 0 -- Reset wait timer
+                    local myRoot = lp.Character.HumanoidRootPart; local targetRoot = target.HumanoidRootPart
+                    local aimTarget = target:FindFirstChild("Head") and target.Head.Position or targetRoot.Position
+                    -- TP Above (Safe from Lava)
+                    local offsetCFrame = targetRoot.CFrame * CFrame.new(0, 14, 0) -- Safe height (14 studs)
+                    myRoot.CFrame = CFrame.new(offsetCFrame.Position, aimTarget) -- Look at Head
+                    workspace.CurrentCamera.CFrame = CFrame.lookAt(workspace.CurrentCamera.CFrame.Position, aimTarget)
+                    myRoot.Velocity = Vector3.new(0,0,0) -- Float
+
+                    -- ANCHOR MOB
+                    targetRoot.Anchored = true
+                    for _, part in pairs(target:GetDescendants()) do if part:IsA("BasePart") then part.Anchored = true end end
+
+                    local tool = equipWeapon()
+                    if tool then
+                        tool.Enabled = true -- No Delay
+                        tool:Activate()
+                        if not isMouseOverUI() then
+                            local vim = game:GetService("VirtualInputManager")
+                            local mouseLoc = UserInputService:GetMouseLocation()
+                            pcall(function() vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, true, game, 1); vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, false, game, 1) end)
+                        end
+                        if tool:FindFirstChild("Handle") then firetouchinterest(tool.Handle, targetRoot, 0); firetouchinterest(tool.Handle, targetRoot, 1) end
+                    end
+                else
+                    -- NAVIGATION MODE (No mobs found)
+                    local myPos = lp.Character.HumanoidRootPart.Position
+                    local currentIdx = 1
+                    local minDst = 9e9
+                    for i, pos in pairs(islands) do
+                        local dst = (myPos - pos).Magnitude
+                        if dst < minDst then minDst = dst; currentIdx = i end
+                    end
+                    
+                    local nextPos = islands[currentIdx + 1]
+                    if nextPos then
+                        local distToNext = (myPos - nextPos).Magnitude
+                        if distToNext < 50 then
+                            -- Arrived at next island
+                            if _G.RaidWaitTime == 0 then _G.RaidWaitTime = tick() end
+                            if tick() - _G.RaidWaitTime > 3 then
+                                -- Waited 3s, still no mobs? Move to next + 1 (handled by loop next frame)
+                                lp.Character.HumanoidRootPart.CFrame = CFrame.new(nextPos + Vector3.new(0, 50, 0))
+                            else
+                                -- Wait here for spawns
+                                lp.Character.HumanoidRootPart.CFrame = CFrame.new(nextPos + Vector3.new(0, 50, 0))
+                            end
+                        else
+                            -- Moving to next island
+                            lp.Character.HumanoidRootPart.CFrame = CFrame.new(nextPos + Vector3.new(0, 50, 0))
+                            _G.RaidWaitTime = 0
+                        end
+                        lp.Character.HumanoidRootPart.Velocity = Vector3.new(0,0,0)
+                    elseif islands[currentIdx] then
+                        -- End of raid or waiting at last island
+                        lp.Character.HumanoidRootPart.CFrame = CFrame.new(islands[currentIdx] + Vector3.new(0, 50, 0))
+                        lp.Character.HumanoidRootPart.Velocity = Vector3.new(0,0,0)
+                    end
+                end
+            end
+
+            if _G.AutoFarmMaterial and _G.SelectedMaterial and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                local matData = nil
+                for _, m in pairs(NovaDB.Materials[_G.CurrentSea]) do if m.Name == _G.SelectedMaterial then matData = m; break end end
+                
+                if matData then
+                    local target = nil
+                    local minDist = 9e9
+                    
+                    for _, mobDef in pairs(matData.Mobs) do
+                        for _, f in pairs({"Enemies", "Characters", "Mobs"}) do
+                            local folder = workspace:FindFirstChild(f)
+                            if folder then
+                                for _, v in pairs(folder:GetChildren()) do
+                                    if v.Name == mobDef.Name and v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                                        local dist = (v.HumanoidRootPart.Position - lp.Character.HumanoidRootPart.Position).Magnitude
+                                        if dist < minDist then minDist = dist; target = v end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                    
+                    if target then
+                        if _G.IsTweening then _G.IsTweening = false; if CurrentTween then CurrentTween:Cancel() end end
+                        
+                        local myRoot = lp.Character.HumanoidRootPart; local targetRoot = target.HumanoidRootPart
+                        local aimTarget = target:FindFirstChild("Head") and target.Head.Position or targetRoot.Position
+                        
+                        for _, v in pairs(myRoot:GetChildren()) do if v.Name == "NovaFly" or v.Name == "NovaGyro" or v.Name == "NovaPos" or v.Name == "NovaHold" then v:Destroy() end end
+                        
+                        local bp = Instance.new("BodyPosition", myRoot); bp.Name = "NovaPos"; bp.MaxForce = Vector3.new(math.huge, math.huge, math.huge); bp.P = 50000; bp.D = 1000
+                        local bg = Instance.new("BodyGyro", myRoot); bg.Name = "NovaGyro"; bg.MaxTorque = Vector3.new(math.huge, math.huge, math.huge); bg.P = 50000
+                        
+                        local lockPos = targetRoot.Position + Vector3.new(0, 14, 0)
+                        bp.Position = lockPos
+                        bg.CFrame = CFrame.lookAt(myRoot.Position, aimTarget)
+                        lp.Character.Humanoid.PlatformStand = true
+                        
+                        targetRoot.Anchored = true
+                        for _, part in pairs(target:GetDescendants()) do if part:IsA("BasePart") then part.Anchored = true end end
+                        
+                        local tool = equipWeapon()
+                        if tool then
+                            tool.Enabled = true; tool:Activate()
+                            if not isMouseOverUI() then
+                                local vim = game:GetService("VirtualInputManager")
+                                local mouseLoc = UserInputService:GetMouseLocation()
+                                pcall(function() vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, true, game, 1); vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, false, game, 1) end)
+                                pcall(function() game:GetService("VirtualUser"):CaptureController(); game:GetService("VirtualUser"):ClickButton1(Vector2.new(mouseLoc.X, mouseLoc.Y)) end)
+                            end
+                            if tool:FindFirstChild("Handle") then firetouchinterest(tool.Handle, targetRoot, 0); firetouchinterest(tool.Handle, targetRoot, 1) end
+                        end
+                    else
+                        if not _G.MaterialMobIndex then _G.MaterialMobIndex = 1 end
+                        if _G.MaterialMobIndex > #matData.Mobs then _G.MaterialMobIndex = 1 end
+                        
+                        local nextMob = matData.Mobs[_G.MaterialMobIndex]
+                        local dest = nextMob.Pos
+                        local hrp = lp.Character.HumanoidRootPart
+                        for _, v in pairs(hrp:GetChildren()) do if v.Name == "NovaFly" or v.Name == "NovaGyro" or v.Name == "NovaPos" or v.Name == "NovaHold" then v:Destroy() end end
+                        
+                        local dist = (Vector3.new(hrp.Position.X, 0, hrp.Position.Z) - Vector3.new(dest.X, 0, dest.Z)).Magnitude
+                        if dist > 10 then
+                            if not _G.IsTweening then
+                                _G.IsTweening = true
+                                lp.Character.Humanoid.PlatformStand = true
+                                hrp.Velocity = Vector3.new(0,0,0)
+                                CurrentTween = TweenService:Create(hrp, TweenInfo.new(dist / _G.TweenSpeed, Enum.EasingStyle.Linear), {CFrame = CFrame.new(dest + Vector3.new(0, 350, 0))})
+                                CurrentTween:Play()
+                                CurrentTween.Completed:Connect(function() _G.IsTweening = false end)
+                            end
+                        else
+                            lp.Character.Humanoid.PlatformStand = false
+                            if not _G.MaterialWaitStart then _G.MaterialWaitStart = tick() end
+                            if tick() - _G.MaterialWaitStart > 2 then _G.MaterialMobIndex = _G.MaterialMobIndex + 1; _G.MaterialWaitStart = nil end
+                        end
+                    end
+                end
+            end
+
+            if _G.AutoDoughPrince and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                local doughSpot = Vector3.new(-2139.24, 70.01, -12274.77)
+               
+                local target = nil
+                local minDist = 9e9
+                local doughMobs = {"Cookie Crafter", "Cake Guard", "Baking Staff", "Head Baker", "Cake Prince"}
+                
+                for _, f in pairs({"Enemies", "Characters", "Mobs"}) do
+                    local folder = workspace:FindFirstChild(f)
+                    if folder then
+                        for _, v in pairs(folder:GetChildren()) do -- Scan ALL mobs
+                            if v:FindFirstChild("Humanoid") and v:FindFirstChild("HumanoidRootPart") and v.Humanoid.Health > 0 then
+                                local isTarget = false; for _, m in pairs(doughMobs) do if string.find(v.Name, m) then isTarget = true; break end end
+                                if isTarget then
+                                    local dist = (v.HumanoidRootPart.Position - lp.Character.HumanoidRootPart.Position).Magnitude
+                                    if dist < minDist then minDist = dist; target = v end
+                                end
+                            end
+                        end
+                    end
+                end
+
+                if target then
+                    if _G.IsTweening then _G.IsTweening = false; if CurrentTween then CurrentTween:Cancel() end end
+                    
+                    if target ~= _G.LastDoughTarget then
+                        _G.LastDoughTarget = target
+                        if target:FindFirstChild("Humanoid") then
+                            target.Humanoid.Died:Connect(function()
+                                UpdateCakePrinceStatus()
+                            end)
+                        end
+                    end
+
+                    local myRoot = lp.Character.HumanoidRootPart; local targetRoot = target.HumanoidRootPart
+                    
+                    local aimTarget = target:FindFirstChild("Head") and target.Head.Position or targetRoot.Position
+                    
+                    -- PLAYER HOVER MODE (Physics-based, no anchor)
+                    -- Clean up old physics movers
+                    for _, v in pairs(myRoot:GetChildren()) do if v.Name == "NovaFly" or v.Name == "NovaGyro" or v.Name == "NovaPos" or v.Name == "NovaHold" then v:Destroy() end end
+                    
+                    local bp = Instance.new("BodyPosition", myRoot); bp.Name = "NovaPos"; bp.MaxForce = Vector3.new(math.huge, math.huge, math.huge); bp.P = 50000; bp.D = 1000
+                    local bg = Instance.new("BodyGyro", myRoot); bg.Name = "NovaGyro"; bg.MaxTorque = Vector3.new(math.huge, math.huge, math.huge); bg.P = 50000
+                    
+                    -- Position: 40 studs above (Perfect range for M1, safe from hitboxes)
+                    local lockPos = targetRoot.Position + Vector3.new(0, 14, 0) -- Safe height (14 studs)
+                    bp.Position = lockPos
+
+                    -- Orientation: Look at target (Face Down)
+                    bg.CFrame = CFrame.lookAt(myRoot.Position, aimTarget) -- Look at Head
+                    lp.Character.Humanoid.PlatformStand = true
+
+                    -- ANCHOR MOB
+                    targetRoot.Anchored = true
+                    for _, part in pairs(target:GetDescendants()) do if part:IsA("BasePart") then part.Anchored = true end end
+                    
+                    local tool = equipWeapon()
+                    if tool then
+                        tool.Enabled = true; tool:Activate()
+                        -- DUAL CLICK SYSTEM (VIM + VirtualUser)
+                        if not isMouseOverUI() then
+                            local vim = game:GetService("VirtualInputManager")
+                            local mouseLoc = UserInputService:GetMouseLocation()
+                            pcall(function() vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, true, game, 1); vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, false, game, 1) end)
+                            pcall(function() game:GetService("VirtualUser"):CaptureController(); game:GetService("VirtualUser"):ClickButton1(Vector2.new(mouseLoc.X, mouseLoc.Y)) end)
+                        end
+                        if tool:FindFirstChild("Handle") then firetouchinterest(tool.Handle, targetRoot, 0); firetouchinterest(tool.Handle, targetRoot, 1) end
+                    end
+                else
+                    -- Cleanup Fly if TPing long distance
+                    local hrp = lp.Character.HumanoidRootPart
+                    for _, v in pairs(hrp:GetChildren()) do if v.Name == "NovaFly" or v.Name == "NovaGyro" or v.Name == "NovaPos" or v.Name == "NovaHold" then v:Destroy() end end
+                    lp.Character.Humanoid.PlatformStand = false
+                    
+                    if (hrp.Position - doughSpot).Magnitude > 50 and not _G.IsTweening then
+                        _G.IsTweening = true
+                        CurrentTween = TweenService:Create(hrp, TweenInfo.new((hrp.Position - doughSpot).Magnitude / _G.TweenSpeed, Enum.EasingStyle.Linear), {CFrame = CFrame.new(doughSpot)})
+                        CurrentTween:Play()
+                        CurrentTween.Completed:Connect(function() _G.IsTweening = false end)
+                    end
+                end
+            end
+
+            if _G.TPNearest and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+                local target = getClosestPlayer()
+                if target and target:FindFirstChild("HumanoidRootPart") then
+                    local myRoot = lp.Character.HumanoidRootPart; local targetRoot = target.HumanoidRootPart
+                    myRoot.CFrame = targetRoot.CFrame * CFrame.new(0, 8, -7) -- Negative Z to create distance
+                    myRoot.CFrame = CFrame.lookAt(myRoot.Position, targetRoot.Position)
+                    myRoot.Velocity = Vector3.new(0,0,0)
+
+                    local tool = equipWeapon()
+                    if tool then
+                        tool.Enabled = true -- No Delay
+                        tool:Activate()
+                        if not isMouseOverUI() then
+                            local vim = game:GetService("VirtualInputManager")
+                            local mouseLoc = UserInputService:GetMouseLocation()
+                            pcall(function() vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, true, game, 1); vim:SendMouseButtonEvent(mouseLoc.X, mouseLoc.Y, 0, false, game, 1) end)
+                        end
+                        if tool:FindFirstChild("Handle") then firetouchinterest(tool.Handle, targetRoot, 0); firetouchinterest(tool.Handle, targetRoot, 1) end
+                    end
+                end
+            end
+            end)
+            if not success then warn("Nova Loop Error:", err) end
+            if _G.NovaKillAura or _G.TPNearest or _G.AutoDoughPrince or _G.AutoFarmMaterial then task.wait() else task.wait(0.2) end
+        end
+    end)
+
+    table.insert(connections, RunService.RenderStepped:Connect(function()
+        if _G.SpectatePlayer then
+            local target = Players:FindFirstChild(_G.SpectateTarget)
+            if target and target.Character and target.Character:FindFirstChild("Humanoid") then
+                workspace.CurrentCamera.CameraSubject = target.Character.Humanoid
+            else
+                if lp.Character and lp.Character:FindFirstChild("Humanoid") then workspace.CurrentCamera.CameraSubject = lp.Character.Humanoid end
+            end
+        else
+            if lp.Character and lp.Character:FindFirstChild("Humanoid") and workspace.CurrentCamera.CameraSubject ~= lp.Character.Humanoid then workspace.CurrentCamera.CameraSubject = lp.Character.Humanoid end
+        end
+        workspace.CurrentCamera.FieldOfView = _G.FieldOfView
+        
+        if _G.ShowCoords and CoordsLabel.Visible and lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+            local pos = lp.Character.HumanoidRootPart.Position; CoordsLabel.Text = string.format("X: %.1f | Y: %.1f | Z: %.1f", pos.X, pos.Y, pos.Z)
+        end
+    end))
+
+    table.insert(connections, RunService.Stepped:Connect(function() 
+        if lp.Character and lp.Character:FindFirstChild("HumanoidRootPart") then
+            -- APPLICATION PERSONAL HITBOX
+            local hbSize = _G.BuddhaRange and 15 or _G.PersonalHitbox
+            -- Y = 2 to fix physics/jumping. X/Z = Size.
+            lp.Character.HumanoidRootPart.Size = Vector3.new(hbSize, 2, hbSize)
+            lp.Character.HumanoidRootPart.Transparency = (hbSize > 2) and 0.5 or 1
+            lp.Character.HumanoidRootPart.CanCollide = false 
+            
+            if _G.TeleportLoop or _G.NoClip or _G.NovaKillAura or _G.TPNearest then 
+                for _, part in pairs(lp.Character:GetDescendants()) do if part:IsA("BasePart") then part.CanCollide = false end end 
+            end
+        end
+    end))
+
+    table.insert(connections, RunService.Heartbeat:Connect(function()
+        pcall(function()
+            local char = lp.Character; local hrp = char:FindFirstChild("HumanoidRootPart")
+            if not hrp then return end
+            
+            local platformActive = false
+            local platformCFrame = CFrame.new(0, -1000, 0)
+
+            -- Walk On Water Logic (Simplified & Fixed)
+            if _G.WalkWater and hrp.Position.Y <= 50 and hrp.Position.Y >= -100 then platformActive = true; platformCFrame = CFrame.new(hrp.Position.X, -1, hrp.Position.Z) end
+            
+            WaterPart.CanCollide = platformActive; WaterPart.CFrame = platformCFrame
+            
+            local targets = {}
+            for _, p in pairs(Players:GetPlayers()) do if p ~= lp and p.Character then table.insert(targets, p.Character) end end
+            for _, f in pairs({"Enemies", "Characters", "Mobs"}) do
+                local folder = workspace:FindFirstChild(f)
+                if folder then for _, v in pairs(folder:GetChildren()) do table.insert(targets, v) end end
+            end
+
+            for _, char in pairs(targets) do 
+                if char ~= lp.Character and char:FindFirstChild("HumanoidRootPart") and char:FindFirstChild("Humanoid") and char.Humanoid.Health > 0 then
+                    local enemyRoot = char.HumanoidRootPart
+                    local player = Players:GetPlayerFromCharacter(char)
+                    local isWhitelisted = player and _G.UseWhitelist and _G.Whitelist[player.Name]
+
+                    if player then
+                        if not isWhitelisted then
+                            enemyRoot.Size = Vector3.new(_G.EnemyHitbox, _G.EnemyHitbox, _G.EnemyHitbox)
+                            enemyRoot.Transparency = (_G.EnemyHitbox > 1) and 0.8 or 0
+                            enemyRoot.CanCollide = false
+                        else enemyRoot.Size = Vector3.new(2, 2, 1); enemyRoot.Transparency = 1 end
+                    end
+
+                    if _G.ESP_Player_Toggle and player and char:FindFirstChild("Head") and not isWhitelisted then 
+                        local head = char.Head; local hum = char.Humanoid
+                        if not head:FindFirstChild("NovaESP") then 
+                            local gui = Instance.new("BillboardGui", head); gui.Name = "NovaESP"; gui.Size = UDim2.new(0, 200, 0, 50); gui.AlwaysOnTop = true; gui.ExtentsOffset = Vector3.new(0, 3, 0)
+                            local txt = Instance.new("TextLabel", gui); txt.Name = "Label"; txt.Size = UDim2.new(1, 0, 1, 0); txt.BackgroundTransparency = 1; txt.TextColor3 = Color3.new(1, 1, 1); txt.TextStrokeTransparency = 0; txt.Font = "GothamBold"; txt.TextSize = 14
+                        else 
+                            local dist = math.floor((hrp.Position - head.Position).Magnitude); local hp = hum and math.floor(hum.Health) or 0; head.NovaESP.Label.Text = char.Name .. "\n" .. hp .. " HP | " .. dist .. "m" 
+                        end 
+                    elseif Players:GetPlayerFromCharacter(char) and char:FindFirstChild("Head") and char.Head:FindFirstChild("NovaESP") then char.Head.NovaESP:Destroy() end 
+
+                    -- REACH / HITBOX EXTENDER LINKED TO PERSONAL HITBOX
+                    local reachRange = _G.BuddhaRange and 15 or _G.PersonalHitbox
+                    if (UserInputService:IsMouseButtonPressed(Enum.UserInputType.MouseButton1) or _G.NovaKillAura) and (hrp.Position - enemyRoot.Position).Magnitude <= reachRange then
+                        local tool = lp.Character:FindFirstChildWhichIsA("Tool")
+                        if tool then
+                            tool.Enabled = true
+                            tool:Activate()
+                            for _, part in pairs(tool:GetDescendants()) do
+                                if part:IsA("BasePart") then firetouchinterest(part, enemyRoot, 0); firetouchinterest(part, enemyRoot, 1) end
+                            end
+                        end
+                    end
+                end 
+            end
+
+            if _G.SpeedValue > 1 and char.Humanoid.MoveDirection.Magnitude > 0 and not _G.TeleportLoop then hrp.CFrame = hrp.CFrame + (char.Humanoid.MoveDirection * (_G.SpeedValue * 0.2)) end
+            if _G.TeleportLoop and _G.SelectedPlayer ~= "Select Player" then 
+                local target = Players:FindFirstChild(_G.SelectedPlayer) 
+                if target and target.Character and target.Character:FindFirstChild("HumanoidRootPart") then
+                    local targetPos = (target.Character.HumanoidRootPart.CFrame * CFrame.new(0, 15, 2)).Position
+                    if (targetPos - hrp.Position).Magnitude > 2 then
+                        hrp.Velocity = (targetPos - hrp.Position).Unit * _G.TweenSpeed
+                        hrp.CFrame = CFrame.new(hrp.Position, target.Character.HumanoidRootPart.Position)
+                    else hrp.Velocity = Vector3.new(0,0,0); hrp.CFrame = CFrame.new(targetPos, target.Character.HumanoidRootPart.Position) end
+                end
+            end
+            if _G.MagnetAim then
+                local t = nil; local d = _G.MagnetRadius
+                for _,p in pairs(Players:GetPlayers()) do if p ~= lp and p.Character and p.Character:FindFirstChild("HumanoidRootPart") then
+                    if not (_G.UseWhitelist and _G.Whitelist[p.Name]) then local pos, os = cam:WorldToScreenPoint(p.Character.HumanoidRootPart.Position)
+                    if os and (Vector2.new(mouse.X, mouse.Y) - Vector2.new(pos.X, pos.Y)).Magnitude < d then d = (Vector2.new(mouse.X, mouse.Y) - Vector2.new(pos.X, pos.Y)).Magnitude; t = p.Character.HumanoidRootPart end
+                end end end
+                if t then cam.CFrame = cam.CFrame:Lerp(CFrame.new(cam.CFrame.Position, t.Position), 0.15) end
+            end
+        end)
+    end))
+    
+    table.insert(connections, UserInputService.InputBegan:Connect(function(i,p) 
+        if not p then
+            if (i.UserInputType == Enum.UserInputType.Keyboard and i.KeyCode == ToggleKey) or (i.UserInputType == ToggleKey) then
+                ScreenGui.Enabled = not ScreenGui.Enabled
+            end
+        end 
+    end))
+end
+
+LaunchMainMenu()
